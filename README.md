@@ -17,7 +17,7 @@
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
  
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
+   <img alt="css3" src="https://img.shields.io/badge/-CSS-0299F2?style=flat-square&logo=css3&logoColor=white" />
     <img alt="css3" src="https://img.shields.io/badge/-gulp-D34446?style=flat-square&logo=gulp&logoColor=white" />
   
 

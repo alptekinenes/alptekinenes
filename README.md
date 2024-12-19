@@ -5,7 +5,7 @@
 - 🌱 I’m currently working Design & Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me alptekinenes@gmail.com
-<img style="pointer-events: none;" src="https://svgshare.com/i/ncY.svg"/>
+
 <h3>Things I code with</h3>
 <p>
  
